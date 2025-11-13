@@ -10,7 +10,7 @@ it should be factored as "con" in language overviews.
 Documentation / notes are stored in the "docs" directory.
 Reviews of languages are stored in docs/LanguageOverview.
 
- > A check marks a completed project.
+ > A check marks a completed project.  
 As of November 13, 2025, the currently planned/implemented projects are:
 - [ ] An auto complete engine
 - [ ] A terminal text editor
