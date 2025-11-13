@@ -1,0 +1,11 @@
+The text editor project is a basic editing tool that can edit text, and supports basic syntax highlighting.
+
+Using a library is encouraged, as there is no way apart of the C library to interact with the console.
+The list of keywords tokens to highlight should match the keywords from the implementation language.
+The keywords should be colored green (0, 255, 0), and text colored white.
+
+The editor should support:
+- System clipboard
+- Copy paste (Control-c, Control-v)
+- Quit (C-q)
+- Navigation (arrows, home, end)

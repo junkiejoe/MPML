@@ -1,0 +1,22 @@
+Pros:
+
+- Supported on every major platform.
+- Has cppreference, a great reference to discover features and understand the language.
+- 
+Cons:
+
+- HORRIBLE, GARBAGE, WORTHLESS compile times.
+- The WORST tooling of ANY programming language.
+- Every feature except the ones you need.
+- Null terminated strings instead of length prefixed.
+- Have to work with two different major compilers (cl and clang).
+- Many libraries use templates which RUINS compile times.
+- Removes useful features from C99 (for no benefit), and refuses to add features from newer C versions (#embed).
+- Module system with no standard binary interface, so have fun getting LSP setup with different compilers.
+- CMake STILL considers modules experimental (even when this no longer becomes true, it took FOREVER).
+
+This is a horrible language. Every time you try and use something from the standard library, there WILL be an issue you have with it.
+There are ONLY 2 reasons to use this language.
+
+1. You are targetting multiple platforms. Especially gaming consoles
+2. You need to use some C/C++ library.

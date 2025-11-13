@@ -1,0 +1,24 @@
+* Documentation
+
+Java is well-documentated.
+Every library had information on exceptions that may be thrown.
+
+
+* Pros, cons, and considerations
+
+Pros:
+
+- Java makes it very easy to come from C and C++
+- Module system (package, import)
+- Better tooling than C and C++ (low bar)
+- Better, cleaner standard library than C++.
+
+Cons:
+
+- IO is limited compared to C and C++
+
+Considerations:
+
+- Java is an OOP based language.
+- The language is garbage collected, which can be a no-go for certain programs.
+
